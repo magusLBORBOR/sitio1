@@ -1,0 +1,19 @@
+body{
+	background: conic-gradient(aqua,coral,gray,#FF2345)
+}
+p{
+	font-family: arial;
+	font-size: 30px;
+	color: black;
+}
+h1,tr,td{
+	text-align: center;
+	color: black;
+}
+.hola{
+	font-family: comic;
+}
+#contenedor{
+	border: 2px solid blue;
+	padding: 5px;
+}
